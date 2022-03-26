@@ -1,8 +1,8 @@
-NetherGames Statistics Bot **VERSION 1**!!!<br>
+NetherGames Statistics Bot **VERSION 1**!!!<br><br>
 
 A tool to interact with the Nethergames API and a better version of the Official NetherGames Bot made by mat345st#5784<br><br>
 
-**Commands List**
+**Commands List**<br>
 `ns!help` - Help Embed<br>
 `ns!player` - Fetch Player Stats<br>
 `ns!guild` - Fetch Guild Stats<br>
@@ -17,7 +17,7 @@ A tool to interact with the Nethergames API and a better version of the Official
 `ns!setprefix` - Sets the prefix of the bot<br>
 `ns!vote` - Vote for the Bot and the Server<br><br>
 
-**Q and A**
+**Q and A**<br>
 
 - Is the Code ugly?<br>
 Definitely.<br>
