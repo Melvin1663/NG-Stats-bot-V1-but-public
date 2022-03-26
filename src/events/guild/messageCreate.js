@@ -90,7 +90,7 @@ module.exports = async (Discord, client, message) => {
   try {
     command.execute(client, message, cmd, args, Discord);
   } catch (e) {
-    message.reply(`Error: ${e.message.replace(/1e11637f-bd58-4d0b-ac39-157396cdd0e8/g, '')}`);
+    message.reply(`Error: ${e.message}`);
     console.log(e);
   }
 };
