@@ -1,6 +1,6 @@
-NetherGames Statistics Bot **VERSION 1**!!!<br><br>
+NetherGames Statistics Bot **VERSION 1**!!!<br>
 
-A tool to interact with the Nethergames API and a better version of the Official NetherGames Bot made by mat345st#5784<br><br>
+A tool to interact with the Nethergames API and a better version of the Official NetherGames Bot made by mat345st#5784<br>
 
 **Commands List**<br>
 `ns!help` - Help Embed<br>
